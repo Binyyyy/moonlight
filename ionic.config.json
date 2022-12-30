@@ -1,0 +1,8 @@
+{
+  "name": "Moonlight",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b3b78d86"
+}
